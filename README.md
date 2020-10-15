@@ -5,9 +5,7 @@ Fork on GitHub401
 <h1 align="center">Hi 👋, I'm Sai Raj Chintha</h1>
 <h3 align="center">A passionate Computer Science undergraduate From India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajchintha&label=Profile%20views&color=0e75b6&style=flat" alt="sairajchintha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairajchintha" alt="sairajchintha" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajchintha&label=Profile%20views&color=0e75b6&style=flat" alt="sairajchintha" /> </p
 
 <p align="left"> <a href="https://twitter.com/sairaj_chintha" target="blank"><img src="https://img.shields.io/twitter/follow/sairaj_chintha?logo=twitter&style=for-the-badge" alt="sairaj_chintha" /></a> </p>
 
